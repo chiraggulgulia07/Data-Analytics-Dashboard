@@ -82,7 +82,8 @@ Attrition by Years at Company (Line Chart): Shows trends of attrition based on t
 👥 Diversity Insights: Reveals gender-based attrition differences.
 
 📊 Data-Driven HR Decisions: Guides leadership in designing salary structures, career growth plans, and targeted employee engagement initiatives.
+
 6. Screenshots / Demos
 Dashboard Preview:
-[(Alternative text: HR Analytics Dashboard showing attrition by education, age, gender, salary, job role, and tenure with key KPIs on employees, attrition, and salaries.)]
-(https://github.com/chiraggulgulia07/Data-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard)
+![HR Analytics Dashboard showing attrition by education, age, gender, salary, job role, and tenure with key KPIs on employees, attrition, and salaries.](https://github.com/chiraggulgulia07/Data-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
+
