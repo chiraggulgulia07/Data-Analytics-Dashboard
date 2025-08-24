@@ -52,4 +52,4 @@ Attrition by Years at Company (Line Chart): Shows trends of attrition based on t
 
 6. Screenshots / Demos
 Dashboard Preview:
-(Alternative text: HR Analytics Dashboard showing attrition by education, age, gender, salary, job role, and tenure with key KPIs on employees, attrition, and salaries.)
+[(Alternative text: HR Analytics Dashboard showing attrition by education, age, gender, salary, job role, and tenure with key KPIs on employees, attrition, and salaries.)](https://github.com/chiraggulgulia07/Data-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard)
